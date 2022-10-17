@@ -11,7 +11,7 @@ If your tests require PostgreSQL services, for simplicity your tests can assume 
 instead of integrating service creation and deleting. The above application should be dockerized, 
 one for the webserver application and the other for the database.
 
-IMPORTANT: PLEASE CREATE A BRANCH AND RAISE A PR AGAINST THE MASTER BRANCH
+IMPORTANT: PLEASE USE YOUR OWN REPO FOR A SOLUTION AND DO NOT PUSH BRANCHES TO THIS REPO!
 ```
 
 ## APIs to develop
